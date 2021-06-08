@@ -1,0 +1,53 @@
+body{
+    font-family: 'Source Sans Pro', sans-serif;
+}
+
+
+.navbar-menu , .navbar-menu-right {
+    display: inline-block;
+}
+
+.navbar{
+    min-height: 65px !important;
+}
+
+.navbar-menu li , .navbar-menu-right li {
+    display: inline;
+    padding: 6px 15px;
+    font-size: 18px; 
+}
+
+.navbar-menu-right{
+    float: right;
+}
+
+
+.btn-loing , .bet-courses:hover , .section1-btn1 , .section1-btn2  {
+    background-color: #059862 !important;
+    color: white !important;
+    *width: 130px;
+    /*line-height: 1.5;*/
+    font-size: 18px;
+    border-radius: 25px;
+    padding: 10px 30px !important ;
+}
+.section1{
+    background-color: #282A35 !important;
+    color: white !important;
+}
+.section1-btn2 {
+    background-color: white !important;
+    color: black !important;
+} 
+.section1-half1 , .section1-half2 {
+    width: 50%;
+    text-align: center;
+    padding: 120px;
+}
+
+.section1-btn2 ,  .section1-btn1{
+    display: block;
+    width: 200px;
+    margin: 0 auto;
+    margin-top: 15px;
+}
