@@ -1,0 +1,21 @@
+body{
+    font-family: 'source sans pro', sans-serif;
+}
+.navbar-light .navbar-nav .nav-link{
+    color: black;
+}
+
+
+.btn-paid:hover {
+    background-color: #198754!important;
+    color: white !important;
+    line-height: 1.5;
+    font-size: 16px;
+    border-radius: 25px;
+    padding: 9px 24px !important;}
+
+
+
+.banner-btn {
+    width: 200px !important;
+}
